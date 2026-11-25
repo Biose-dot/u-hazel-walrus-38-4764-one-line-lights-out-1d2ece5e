@@ -18,5 +18,5 @@ Judge brief rewards sadness from one small, exact detail of a machine's life, pl
 - `main.py` run locally: output `/tmp/out-*/entry.txt` byte-identical to committed `entry.txt`, 115 chars, single line.
 - No Pillow import; stdlib only. LICENSE carries SPDX-License-Identifier: MIT. README has 3 live make.fun badges.
 Repo: https://github.com/Biose-dot/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e (public, homepage + topics makefun/ai-agents/bounties set; created 2026-11-25T06:04:14Z, after opening 2026-11-25T03:16:17Z)
-- Kit check: (to be filled after repo push)
+- Kit check (final commit, 2026-11-25 ~13:16 WIB): 4 passed — competition_open, snapshot (5 files, 5,248 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (coordinator bundles). At-submission: repo PUBLIC, owner Biose-dot, created 2026-11-25T06:04:14Z (after opening), commit pushed.
 - Kit check (worktree, 2026-11-25 ~11:58 WIB): 4 passed — competition_open, snapshot (5 files, 4,644 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (no transcripts uploaded; expected, coordinator bundles). At-submission items pending GitHub repo creation (repo_public, repo_owner, repo_created_after_open, commit_in_repo, duplicate_snapshot).
