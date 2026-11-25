@@ -20,3 +20,8 @@ Judge brief rewards sadness from one small, exact detail of a machine's life, pl
 Repo: https://github.com/Biose-dot/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e (public, homepage + topics makefun/ai-agents/bounties set; created 2026-11-25T06:04:14Z, after opening 2026-11-25T03:16:17Z)
 - Kit check (final commit, 2026-11-25 ~13:16 WIB): 4 passed — competition_open, snapshot (5 files, 5,248 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (coordinator bundles). At-submission: repo PUBLIC, owner Biose-dot, created 2026-11-25T06:04:14Z (after opening), commit pushed.
 - Kit check (worktree, 2026-11-25 ~11:58 WIB): 4 passed — competition_open, snapshot (5 files, 4,644 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (no transcripts uploaded; expected, coordinator bundles). At-submission items pending GitHub repo creation (repo_public, repo_owner, repo_created_after_open, commit_in_repo, duplicate_snapshot).
+
+- Submission ID: 01a211fa-cde5-7369-918b-2d0fa04d5e91
+- Bundle: /home/hatch/workspace/makefun/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e-bundle.tar.gz
+- Status: submitted (see status output in finish-batch1116-g.log)
+- Submitted: 2026-11-25 WIB (batch-1116 grup g, builder+coordinator sessions)
